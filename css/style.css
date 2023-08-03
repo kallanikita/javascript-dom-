@@ -1,0 +1,23 @@
+body{
+    background: #f4f4f4;
+  }
+  /*header*/
+  #header{
+    background: #07330d;
+    color:#ffffff;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+  }
+  
+  #header .create{
+    padding-top:20px;
+  }
+  
+  /*body*/
+  
+  #body{
+    background: #ffffff;
+    color:#0e0c0c;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+  }
